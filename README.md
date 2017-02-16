@@ -1,12 +1,12 @@
 # movie-sentiment
 
-A Neural Network sentiment analysis for [IMDB](http://www.imdb.com/) movie reviews (i.e. given a long string of movie review, classify the movie review as positive or negative) using mostly [Numpy](http://www.numpy.org/)
+A Neural Network [sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) for [IMDB](http://www.imdb.com/) movie reviews (i.e. given a long string of movie review, classify the movie review as positive or negative) using mostly [Numpy](http://www.numpy.org/)
 
 ##How to Use
 
-The code is presented in a [Jupyter Notebook](https://github.com/jupyter/notebook) / iPython notebook.
+Simply open [`sentiment-analysis.ipynb`](https://github.com/adsasmita/movie-sentiment/blob/master/sentiment-analysis.ipynb) in any desktop browser, or you can download and run the cells in a Python 3 environment.
 
-Open [`sentiment-analysis.ipynb`](https://github.com/adsasmita/movie-sentiment/blob/master/sentiment-analysis.ipynb) in any desktop browser, or you can download and run the cells in a Python 3 environment.
+The code is presented in a [Jupyter Notebook](https://github.com/jupyter/notebook) / iPython notebook for readability purposes.
 
 ##Overview
 
