@@ -6,7 +6,7 @@ A Neural Network sentiment analysis for [IMDB](http://www.imdb.com/) movie revie
 
 The code is presented in a [Jupyter Notebook](https://github.com/jupyter/notebook) / iPython notebook.
 
-Open [`sentiment-analysis.ipynb`](https://github.com/adsasmita/movie-sentiment/blob/master/sentiment-analysis.ipynb) in any desktop browser, or you can download the it and run the cells in a Python 3 environment.
+Open [`sentiment-analysis.ipynb`](https://github.com/adsasmita/movie-sentiment/blob/master/sentiment-analysis.ipynb) in any desktop browser, or you can download and run the cells in a Python 3 environment.
 
 ##Overview
 
