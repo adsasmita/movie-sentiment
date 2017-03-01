@@ -2,6 +2,8 @@
 
 A Neural Network [sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) for [IMDB](http://www.imdb.com/) movie reviews (i.e. given a long string of movie review, classify the movie review as positive or negative) using mostly [Numpy](http://www.numpy.org/)
 
+![title](img/sa_net.png)
+
 ##How to Use
 
 Simply open [`sentiment-analysis.ipynb`](https://github.com/adsasmita/movie-sentiment/blob/master/sentiment-analysis.ipynb) in any desktop browser, or you can download and run the cells in a Python 3 environment.
@@ -11,6 +13,14 @@ The code is presented in a [Jupyter Notebook](https://github.com/jupyter/noteboo
 ##Overview
 
 The predictive theory in this project is validated by using simple count-based heuristics. This method were able to identify words with both positive and negative correlation to the output data.
+
+##Dimensionality Reduction Visualization
+
+At the end of the project, visualization of vectorized words using [Bokeh](http://bokeh.pydata.org/en/latest/) is also included.
+
+![title](img/bokeh_plot.png)
+
+The green scatterplot represents words that are more associated with positive IMDB movie reviews (such as "beauty", "stunning", and "masterpiece"). The black scatterplot, on the other hand, indicates words more associated with negative IMDB movie reviews (such as "horrible", "stupid", and "terrible").
 
 ##Dataset
 
